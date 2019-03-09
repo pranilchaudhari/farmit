@@ -1,9 +1,27 @@
 .container h2 {
     text-align: center;
 }
+
 ul li {
-     list-style: none;
- }
-li label {
-    text-decoration: underline;    
+    list-style: none;   
+}
+
+ul li img {
+    height: 50px;
+    width: 50px;
+}
+
+
+.new-products img{
+    height: 100px;
+    width: auto;
+}
+
+.big-image img{
+    height: 300px;
+    width: 300px;
+}
+
+.product-specs p{
+    text-align: center;
 }
